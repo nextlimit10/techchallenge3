@@ -1,4 +1,4 @@
-# techchallenge3
+# Techchallenge3
 
 Step-by-Step Guide to Completing Tech Challenge 3: Infrastructure as Code with Terraform and Ansible
 This guide will walk you through the process of successfully completing the Infrastructure as Code with Terraform and Ansible tech challenge. Each step includes detailed explanations and best practices to help you complete the challenge efficiently.
